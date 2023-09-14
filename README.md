@@ -25,7 +25,7 @@ Se você deseja contribuir para o nosso projeto, siga estas etapas:
 2. Clone o repositório forkado para a sua máquina local:
 
    ```bash
-   git clone https://github.com/seu-username/portfolio-web.git
+   git clone https://github.com/seu-username/proz-website-portfolio.git
 
 3. Crie uma branch para sua contribuição:
 
