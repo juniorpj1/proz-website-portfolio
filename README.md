@@ -1,4 +1,4 @@
-# Portfolio Web - Instituto Proz Educação
+# Portfolio Web - Instituto Proz Educação - Projeto integrador
 
 Bem-vindo ao nosso projeto de website de portfólio! Este repositório contém o código-fonte do site de portfólio dos integrantes do curso "Fundamentos em HTML e CSS" oferecido pelo Instituto Proz Educação. Nosso grupo é composto por Aparicio, Fabiana, Barbara, Albert e Adalberto.
 
@@ -29,10 +29,12 @@ Se você deseja contribuir para o nosso projeto, siga estas etapas:
 
 3. Crie uma branch para sua contribuição:
 
+    ```bash
     git checkout -b nomedabranch
 
 4. Faça suas alterações e adicione, comite e envie para o GitHub:
 
+    ```bash
     git add .
     git commit -m "Adicionando sua-feature"
     git push origin nomedabranch
@@ -48,7 +50,3 @@ Se você deseja contribuir para o nosso projeto, siga estas etapas:
 
 ## Licença
 Este projeto está licenciado sob a Licença MIT - consulte o arquivo LICENSE para obter detalhes.
-
-
-
-
