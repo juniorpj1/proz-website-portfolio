@@ -2,6 +2,9 @@
 
 Bem-vindo ao nosso projeto de website de portfólio! Este repositório contém o código-fonte do site de portfólio dos integrantes do curso "Fundamentos em HTML e CSS" oferecido pelo Instituto Proz Educação. Nosso grupo é composto por Aparicio, Fabiana, Barbara, Albert e Adalberto.
 
+## Modelo de Layout (em andamento)
+https://www.canva.com/design/DAFujV49LXk/sVBrxPvWEQSo1xRP1IiBmw/edit?utm_content=DAFujV49LXk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 🚀 [Link para o site de demonstração](#) - Adicione o link para o site de demonstração quando estiver disponível.
 
 ## Tecnologias Utilizadas
